@@ -33,7 +33,7 @@ features:
 
 ## 目录
 
-1. **[FIRE 的数学定义](/guide/01-fire-definition)** —— 什么是 FIRE？为什么 100 万美金是合理目标？
+1. **[FIRE 的数学定义](/guide/01-fire-definition)** —— 什么是 FIRE？为什么 1000 万人民币是合理目标？
 2. **[积累本金](/guide/02-accumulate-capital)** —— AI PhD 在大模型时代的黄金变现期
 3. **[培养投资范式](/guide/03-investment-framework)** —— 从零建立你的投资体系
 4. **[我的投资实践](/guide/04-my-strategies)** —— 可转债轮动 / 美股 / 港股打新
