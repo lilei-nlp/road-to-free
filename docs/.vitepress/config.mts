@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/road-to-free/',
+  base: '/how-to-fire/',
   title: 'AI PhD 的 FIRE 之路',
   description: '大模型时代，AI PhD 如何实现财务自由',
   lang: 'zh-CN',
