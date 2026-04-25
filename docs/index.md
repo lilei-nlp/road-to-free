@@ -10,7 +10,8 @@
 2. **[积累本金](/guide/02-accumulate-capital)** —— AI PhD 在大模型时代的黄金变现期
 3. **[构建自己的投资框架](/guide/03-investment-framework)** —— 从零建立你的投资体系
 4. **[我的投资实践](/guide/04-my-strategies)** —— 可转债轮动 / 美股 / 港股打新
-5. **[投资心理学](/guide/05-psychology)** —— FOMO、恐慌与 PhD 思维的陷阱
+5. **[理解周期](/guide/05-cycles)** —— 如何在周期的起伏中低买高卖
+6. **[投资心理学](/guide/06-psychology)** —— FOMO、恐慌与 PhD 思维的陷阱
 
 ---
 

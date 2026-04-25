@@ -34,8 +34,12 @@ export default defineConfig({
         link: '/guide/04-my-strategies',
       },
       {
-        text: '5. 投资心理学',
-        link: '/guide/05-psychology',
+        text: '5. 理解周期',
+        link: '/guide/05-cycles',
+      },
+      {
+        text: '6. 投资心理学',
+        link: '/guide/06-psychology',
       },
       {
         text: '附录',
