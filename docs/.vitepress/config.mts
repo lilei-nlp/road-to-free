@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  base: '/how-to-fire/',
+  base: '/road-to-free/',
   title: 'AI PhD 的 FIRE 之路',
   description: '大模型时代，AI PhD 如何实现财务自由',
   lang: 'zh-CN',
@@ -68,29 +68,35 @@ export default defineConfig({
         ],
       },
       {
+        text: '5. 理解周期',
+        link: '/guide/05-cycles',
+        collapsed: true,
+        items: [
+          { text: '为什么要理解周期？', link: '/guide/05-cycles#为什么要理解周期' },
+          { text: '霍华德·马克斯的周期框架', link: '/guide/05-cycles#霍华德-马克斯的周期框架' },
+          { text: '不同类型的周期叠加', link: '/guide/05-cycles#不同类型的周期叠加' },
+          { text: '如何利用周期但不迷信', link: '/guide/05-cycles#如何利用周期但不迷信周期' },
+        ],
+      },
+      {
+        text: '6. 投资心理学',
+        link: '/guide/06-psychology',
+        collapsed: true,
+        items: [
+          { text: '最难的不是数学，是心态', link: '/guide/06-psychology#投资中最难的不是数学-是心态' },
+          { text: 'FOMO', link: '/guide/06-psychology#fomo-看到别人赚钱比自己亏钱还难受' },
+          { text: '市场下跌时的恐慌', link: '/guide/06-psychology#市场下跌时的恐慌' },
+          { text: 'PhD 思维的帮助与陷阱', link: '/guide/06-psychology#phd-思维对投资的帮助与陷阱' },
+          { text: '本质是认知变现', link: '/guide/06-psychology#总结-投资的本质是认知变现' },
+        ],
+      },
+      {
         text: '附录',
         collapsed: true,
         items: [
-          {
-            text: '全局书单',
-            link: '/appendix/reading-list',
-            collapsed: true,
-            items: [
-              { text: '入门启蒙', link: '/appendix/reading-list#入门启蒙' },
-              { text: '投资理念', link: '/appendix/reading-list#投资理念' },
-              { text: '市场与周期', link: '/appendix/reading-list#市场与周期' },
-              { text: '风险与不确定性', link: '/appendix/reading-list#风险与不确定性' },
-              { text: '心理学与行为金融', link: '/appendix/reading-list#心理学与行为金融' },
-              { text: 'FIRE 与财富自由', link: '/appendix/reading-list#fire-与财富自由' },
-              { text: '具体策略与工具', link: '/appendix/reading-list#具体策略与工具' },
-              { text: '中国市场', link: '/appendix/reading-list#中国市场' },
-              { text: '在线资源', link: '/appendix/reading-list#在线资源' },
-            ],
-          },
-          {
-            text: 'FAQ',
-            link: '/appendix/faq',
-          },
+          { text: '推荐书单', link: '/appendix/reading-list' },
+          { text: '数据源与工具链', link: '/appendix/tools' },
+          { text: 'FAQ', link: '/appendix/faq' },
         ],
       },
     ],
